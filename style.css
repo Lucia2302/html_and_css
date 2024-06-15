@@ -1,0 +1,45 @@
+body{
+  font-family: Arial,sana-seri;
+  margin: 0;
+  padding: 20px;
+  background-color: #191919;
+  color: #333;
+  background-image: url(https://oboitd.ru/images/goods/big/20200130091300_Cvety_roza_p6001_2745.jpg);
+
+
+}
+
+
+p{
+    color: blue
+}
+
+li{
+    color:brown
+            }
+ li{
+    background-color: gray;
+ }           
+
+.zagolovok{
+background-color: darkkhaki;
+}
+
+#header{
+   font-size: 30px;
+}
+
+h2.intro{
+    color: green;
+    background-color: rgb(142, 167, 247);
+    border-bottom: 6px solid green;
+    padding-bottom: 25px;
+}
+
+a{
+color:forestgreen;
+}
+
+a:hover{
+  color:blueviolet(73,43,226);
+}  
